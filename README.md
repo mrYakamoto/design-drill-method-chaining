@@ -1,16 +1,16 @@
-# Design Drill Method Chaining 
- 
-##Learning Competencies 
+# Design Drill Method Chaining
 
-##Summary 
+##Learning Competencies
 
- Method chaining is a programming technique for making your code more concise and eloquent.
+##Summary
 
-It is often useful to write your programs out on many lines so that you can visualize the functionality more easily.  This is a great first step, but it may not be the most readable or efficient way to write your code.
+Method chaining is a programming technique for making your code more concise and eloquent.
 
-You should always refactor your code to make it more clear, readable, and concise.  Method chaining is one tool that you can make use of towards this end.
+It is often useful to write your programs out on many lines so that you can visualize the functionality more easily. This is a great first step, but it may not be the most readable or efficient way to write your code.
 
-However, it can be taken too far.  Getting your code to fit on the fewest possible number of lines is nice, but it can also lead to very unreadable and convoluted code.
+You should always refactor your code to make it more clear, readable, and concise. Method chaining is one tool that you can make use of towards this end.
+
+However, it can be taken too far. Getting your code to fit on the fewest possible number of lines is nice, but it can also lead to very unreadable and convoluted code.
 
 In the Ruby world, it is considered more professional to write readable, elegant code than extra-compact, complex code.
 
@@ -18,7 +18,7 @@ In the Ruby world, it is considered more professional to write readable, elegant
 
 ### Increase elegance with chaining
 
-Refactor the statements within the method body of `shout_backwards` into one line of code.  
+Refactor the statements within the method body of `shout_backwards` into one line of code.
 
 It should still be clear what the method's behavior is even after you refactor.
 
@@ -26,11 +26,11 @@ It should still be clear what the method's behavior is even after you refactor.
 
 Break down the convoluted statement within `squared_primes` so that it reads more smoothly.
 
-It should be much clearer what the method is doing after you refactor. 
+It should be much clearer what the method is doing after you refactor.
 
 ##Releases
-###Release 0 
+###Release 0
 
-##Optimize Your Learning 
+##Optimize Your Learning
 
 ##Resources
