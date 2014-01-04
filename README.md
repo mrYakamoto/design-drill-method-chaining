@@ -2,6 +2,10 @@
 
 ##Learning Competencies
 
+* Refactor poorly formatted code.
+* Organize code for consistency and readability.
+* Use Method Chaining to create concise readable code.
+
 ##Summary
 
 Method chaining is a programming technique for making your code more concise and eloquent.
@@ -14,23 +18,20 @@ However, it can be taken too far. Getting your code to fit on the fewest possibl
 
 In the Ruby world, it is considered more professional to write readable, elegant code than extra-compact, complex code.
 
-## Objectives
+##Releases
 
-### Increase elegance with chaining
+###Release 0 : Simplify With Chaining
 
 Refactor the statements within the method body of `shout_backwards` into one line of code.
 
 It should still be clear what the method's behavior is even after you refactor.
 
-### Refactor for clarity
+###Release 1 : Refactor for clarity
 
 Break down the convoluted statement within `squared_primes` so that it reads more smoothly.
 
 It should be much clearer what the method is doing after you refactor.
 
-##Releases
-###Release 0
-
-##Optimize Your Learning
+<!-- ##Optimize Your Learning -->
 
 ##Resources
