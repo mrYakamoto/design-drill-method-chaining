@@ -20,6 +20,8 @@ In the Ruby world, it is considered more professional to write readable, elegant
 
 ##Releases
 
+You'll find two tests for the methods in `method_chaining`. Run them now to see that they pass. As you refactor, ensure that the tests continue to pass. Preventing [regression](http://en.wikipedia.org/wiki/Regression_testing) is one of many reasons tests are valuable!
+
 ###Release 0 : Simplify With Chaining
 
 Refactor the statements within the method body of `shout_backwards` into one line of code.
@@ -31,7 +33,3 @@ It should still be clear what the method's behavior is even after you refactor.
 Break down the convoluted statement within `squared_primes` so that it reads more smoothly.
 
 It should be much clearer what the method is doing after you refactor.
-
-<!-- ##Optimize Your Learning -->
-
-##Resources
