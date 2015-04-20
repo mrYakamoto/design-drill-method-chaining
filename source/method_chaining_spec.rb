@@ -10,6 +10,6 @@ end
 describe "squared_primes" do
   it 'should return array of the primes, squared' do
     expect(squared_primes([1, 3, 4, 7, 42]))
-      .to eq([1, 9, 49])
+      .to eq([9, 49])
   end
 end
