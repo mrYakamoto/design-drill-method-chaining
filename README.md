@@ -21,3 +21,7 @@ Refactor the code within the method body of `shout_backwards` into one line of c
 
 ### Release 1: Refactor for Clarity
 The code in the `squared_primes` method has been condensed down to one difficult-to-read line.  Refactor the convoluted code within the method so that it reads more smoothly.  When we're done, it should be much clearer what the method is doing.
+
+
+## Conclusion
+Method chaining is one tool that we can use to write readable, elegant code.  In addition to writing code that works, we should always aim to write high quality code.  As we proceed through challenges at Dev Bootcamp, we should look through our code for refactoring opportunities and then take the time to refactor our solutions to be more readable.  With purposeful practice we can begin to naturally write readable Ruby-like code.
