@@ -1,4 +1,4 @@
-require_relative('method_chaining')
+require_relative('../method_chaining')
 
 describe "shout_backwards" do
   it 'should return a loud, backwards string' do
